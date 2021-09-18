@@ -17,5 +17,6 @@ EncoderBuiltIn should be used if you have the functions used in it, if you don't
 This replaces ascii characters with zero-width unicode characters so the characters will be completely invisible (and extremely hard to copy)
 
 
+## Small info
 ###### pog64 was used for testing leave me alone >_<
 ##### Originally made by me and 2 others but didn't bother to invite them back to the repository
