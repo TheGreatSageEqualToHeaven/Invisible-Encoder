@@ -12,7 +12,7 @@ local dec = module.decode(enc)
 print(dec) --> Hello world
 ```
 
-### Info
+## Info
 EncoderBuiltIn should be used if you have the functions used in it, if you don't you should use the one with the libraries added in
 This replaces ascii characters with zero-width unicode characters so the characters will be completely invisible (and extremely hard to copy)
 
