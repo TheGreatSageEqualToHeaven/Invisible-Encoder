@@ -2,4 +2,4 @@
 
 Reupload of an accidently deleted github
 
-### Originally made by 3 people but didn't bother to invite them back to the repository
+### Originally made by me and 2 others but didn't bother to invite them back to the repository
