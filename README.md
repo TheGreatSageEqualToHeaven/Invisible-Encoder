@@ -1,13 +1,14 @@
 # Invisible-Encoder
 
-Reupload of an accidently deleted github
+###### Reupload of an accidently deleted github
+Replaces ascii characters with a zero-width character and vice-versa, makes strings completely invisible
 
 ## Example
 ```lua
 local module = require("path/to/module")
 
 local enc = module.encode("Hello World")
-print(enc) --> 
+print(enc) --> (no there is no string here its an example stfu)
 local dec = module.decode(enc)
 print(dec) --> Hello world
 ```
