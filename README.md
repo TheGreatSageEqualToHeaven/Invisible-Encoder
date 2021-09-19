@@ -16,6 +16,8 @@ print(dec) --> Hello world
 EncoderBuiltIn should be used if you have the functions used in it, if you don't you should use the one with the libraries added in
 This replaces ascii characters with zero-width unicode characters so the characters will be completely invisible (and extremely hard to copy)
 
+## Challenges
+When writing this we were working with Lua 5.1 which didn't have support for unicode characters and it would just skip over them so we had to add functions to support unicode characters, EncoderBuiltIn was made for Roblox's Luau but should also support Lua 5.3 and other versions of Lua with some edits
 
 ## Small info
 ###### pog64 was used for testing leave me alone >_<
