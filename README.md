@@ -21,5 +21,4 @@ This replaces ascii characters with zero-width unicode characters so the charact
 When writing this we were working with Lua 5.1 which didn't have support for unicode characters and it would just skip over them so we had to add functions to support unicode characters, EncoderBuiltIn was made for Roblox's Luau but should also support Lua 5.3 and other versions of Lua with some edits
 
 ## Small info
-###### pog64 was used for testing leave me alone >_<
-##### Originally made by me and 2 others but didn't bother to invite them back to the repository
+##### Originally made by me, ThatMeex and picocode but didn't bother to invite them back to the repository
