@@ -9,7 +9,6 @@ local table = table
 local unpack = unpack
 local print = print
 
---// grabbed from stackoverflow lmfao
 Bit.bxor = function(a, b)
     local p, c = 1, 0
     while a > 0 and b > 0 do
