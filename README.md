@@ -1,7 +1,7 @@
-# OUTDATED
+**# OUTDATED**
 
-This is the original version of the invisible encoder, new repo is at 
-https://github.com/picocode1/InvisibleEncoder
+**This is the original version of the invisible encoder, new repo is at** 
+**https://github.com/picocode1/InvisibleEncoder**
 
 # Invisible-Encoder
 
