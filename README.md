@@ -5,7 +5,6 @@ https://github.com/picocode1/InvisibleEncoder
 
 # Invisible-Encoder
 
-###### Reupload of an accidently deleted github
 Replaces ascii characters with a zero-width character and vice-versa, makes strings completely invisible
 
 ## Example
